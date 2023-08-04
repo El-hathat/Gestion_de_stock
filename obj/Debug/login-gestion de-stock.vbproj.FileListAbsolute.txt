@@ -1,0 +1,90 @@
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\bin\Debug\login-gestion de-stock.exe.config
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\bin\Debug\login-gestion de-stock.exe
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\bin\Debug\login-gestion de-stock.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\bin\Debug\login-gestion de-stock.xml
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form1.resources
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Resources.resources
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login-gestion de-stock.vbproj.GenerateResource.Cache
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login-gestion de-stock.exe
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login-gestion de-stock.xml
+C:\Users\acer\AppData\Local\Temporary Projects\login-gestion de-stock\obj\Debug\login-gestion de-stock.pdb
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\bin\Debug\login-gestion de-stock.exe.config
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login-gestion de-stock.exe
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login-gestion de-stock.xml
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login-gestion de-stock.pdb
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\bin\Debug\login-gestion de-stock.exe
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\bin\Debug\login-gestion de-stock.pdb
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\bin\Debug\login-gestion de-stock.xml
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form1.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Resources.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login-gestion de-stock.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form2.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form3.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form4.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock\obj\Debug\login_gestion_de_stock.Form5.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\bin\Debug\login-gestion de-stock.exe.config
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login-gestion de-stock.exe
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login-gestion de-stock.xml
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login-gestion de-stock.pdb
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\bin\Debug\login-gestion de-stock.exe
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\bin\Debug\login-gestion de-stock.pdb
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\bin\Debug\login-gestion de-stock.xml
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form1.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form2.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form3.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form4.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form5.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Resources.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login-gestion de-stock.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form6.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form7.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form8.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form9.resources
+C:\Users\acer\Desktop\loginpage\vb.net\niyaba projet\login-gestion de-stock\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form10.resources
+E:\ \APP DP\login-gestion de-stock1\bin\Debug\login-gestion de-stock.exe.config
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login-gestion de-stock.exe
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login-gestion de-stock.xml
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login-gestion de-stock.pdb
+E:\ \APP DP\login-gestion de-stock1\bin\Debug\login-gestion de-stock.exe
+E:\ \APP DP\login-gestion de-stock1\bin\Debug\login-gestion de-stock.pdb
+E:\ \APP DP\login-gestion de-stock1\bin\Debug\login-gestion de-stock.xml
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\ResolveAssemblyReference.cache
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form1.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form10.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form2.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form3.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form4.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form5.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form6.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form7.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form8.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Form9.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login_gestion_de_stock.Resources.resources
+E:\ \APP DP\login-gestion de-stock1\obj\Debug\login-gestion de-stock.vbproj.GenerateResource.Cache
+E:\app dp\bin\Debug\login-gestion de-stock.exe.config
+E:\app dp\obj\Debug\login-gestion de-stock.exe
+E:\app dp\obj\Debug\login-gestion de-stock.xml
+E:\app dp\obj\Debug\login-gestion de-stock.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\bin\Debug\login-gestion de-stock.exe.config
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login-gestion de-stock.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login-gestion de-stock.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login-gestion de-stock.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\bin\Debug\login-gestion de-stock.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\bin\Debug\login-gestion de-stock.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\bin\Debug\login-gestion de-stock.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form1.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form10.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form2.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form3.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form4.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form5.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form6.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form7.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form8.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Form9.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login_gestion_de_stock.Resources.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\app dp\obj\Debug\login-gestion de-stock.vbproj.GenerateResource.Cache
